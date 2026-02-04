@@ -59,8 +59,8 @@ lib/
 
 ### 👤 About Section
 <p align="center">
-  <img src="screenshots/about-light.jpeg" width="45%" />
-  <img src="screenshots/about-dark.jpeg" width="45%" />
+  <img src="screenshots/about-light.jpeg" width="40%" />
+  <img src="screenshots/about-dark.jpeg" width="40%" />
 </p>
 
 
@@ -113,6 +113,7 @@ You can download and install the latest Android build of the portfolio app using
 3. Install and launch the app
 
 > ⚠️ This APK is safe and built directly from this repository using Flutter release mode.
+
 
 
 
