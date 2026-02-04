@@ -52,28 +52,44 @@ lib/
 ## 📸 Screenshots
 
 ### 🏠 Home / Hero Section
-![Hero-Light](screenshots/hero-light.jpeg)
-![Hero-Dark](screenshots/hero-light.jpeg)
+<p align="center"> 
+  <img src="screenshots/hero-light.jpeg" width="40%" />
+  <img src="screenshots/hero-dark.jpeg" width="40%" /> 
+</p> 
 
 ### 👤 About Section
-![About-Light](screenshots/about.png)
-![About-dark](screenshots/about.png)
+<p align="center">
+  <img src="screenshots/about-light.jpeg" width="45%" />
+  <img src="screenshots/about-dark.jpeg" width="45%" />
+</p>
+
 
 ### 💼 Experience
-![Experience-Light](screenshots/experience-light.jpeg)
-![Experience-Dark](screenshots/experience-dark.jpeg)
+<p align="center">
+  <img src="screenshots/experience-light.jpeg" width="40%" />
+  <img src="screenshots/experience-dark.jpeg" width="40%" />
+</p>
+
 
 ### 📂 Projects
-![Projects-Light](screenshots/projects-light.jpeg)
-![Projects-Dark](screenshots/projects-dark.jpeg)
+<p align="center">
+  <img src="screenshots/projects-light.jpeg" width="40%" />
+  <img src="screenshots/projects-dark.jpeg" width="40%" />
+</p>
+
 
 ### 🛠️ Skills
-![Skills-Light](screenshots/skills-light.jpeg)
-![Skills-Dark](screenshots/skills-dark.jpeg)
+<p align="center">
+  <img src="screenshots/skills-light.jpeg" width="40%" />
+  <img src="screenshots/skills-dark.jpeg" width="40%" />
+</p>
+
 
 ### 📞 Contact
-![Contact-Light](screenshots/contact-light.jpeg)
-![Contact-Dark](screenshots/contact-dark.jpeg)
+<p align="center">
+  <img src="screenshots/contact-light.jpeg" width="40%" />
+  <img src="screenshots/contact-dark.jpeg" width="40%" />
+</p>
 
 ---
 
@@ -97,5 +113,6 @@ You can download and install the latest Android build of the portfolio app using
 3. Install and launch the app
 
 > ⚠️ This APK is safe and built directly from this repository using Flutter release mode.
+
 
 
